@@ -16,6 +16,7 @@
 
 ### 🛠 Мой стек:
 <img src="https://img.shields.io/badge/python-ADD8E6?style=for-the-badge&logo=python&logoColor=708090">
+<img src="https://img.shields.io/badge/pandas-ADD8E6?style=for-the-badge&logo=pandas&logoColor=708090">
 
 
 
