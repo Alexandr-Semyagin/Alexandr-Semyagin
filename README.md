@@ -15,7 +15,12 @@
 
 
 ### 🛠 Мой стек:
-<img src="https://img.shields.io/badge/python-ADD8E6?style=for-the-badge&logo=python&logoColor=708090"> <img src="https://img.shields.io/badge/pandas-ADD8E6?style=for-the-badge&logo=pandas&logoColor=708090"> <img src="https://img.shields.io/badge/numpy-ADD8E6?style=for-the-badge&logo=numpy&logoColor=708090"> <img src="https://img.shields.io/badge/scipy-ADD8E6?style=for-the-badge&logo=scipy&logoColor=708090"> <img src="https://img.shields.io/badge/seaborn-ADD8E6?style=for-the-badge&logo=seaborn&logoColor=708090">
+<img src="https://img.shields.io/badge/python-ADD8E6?style=for-the-badge&logo=python&logoColor=708090"> <img src="https://img.shields.io/badge/pandas-ADD8E6?style=for-the-badge&logo=pandas&logoColor=708090"> <img src="https://img.shields.io/badge/numpy-ADD8E6?style=for-the-badge&logo=numpy&logoColor=708090"> <img src="https://img.shields.io/badge/scipy-ADD8E6?style=for-the-badge&logo=scipy&logoColor=708090"> <img src="https://img.shields.io/badge/seaborn-ADD8E6?style=for-the-badge&logo=seaborn&logoColor=708090"> <img src="https://img.shields.io/badge/plotly-ADD8E6?style=for-the-badge&logo=plotly&logoColor=708090"> <img src="https://img.shields.io/badge/mysql-ADD8E6?style=for-the-badge&logo=mysql&logoColor=708090"> <img src="https://img.shields.io/badge/postgresql-ADD8E6?style=for-the-badge&logo=postgresql&logoColor=708090">
+
+<img src="https://img.shields.io/badge/clickhouse-ADD8E6?style=for-the-badge&logo=clickhouse&logoColor=708090"> <img src="https://img.shields.io/badge/git-ADD8E6?style=for-the-badge&logo=git&logoColor=708090"> <img src="https://img.shields.io/badge/apacheairflow-ADD8E6?style=for-the-badge&logo=apacheairflow&logoColor=708090"> <img src="https://img.shields.io/badge/powerbi-ADD8E6?style=for-the-badge&logo=powerbi&logoColor=708090"> <img src="https://img.shields.io/badge/tableau-ADD8E6?style=for-the-badge&logo=tableau&logoColor=708090"> 
+
+
+
 
 
 
